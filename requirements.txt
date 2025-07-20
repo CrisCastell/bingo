@@ -1,0 +1,4 @@
+fastapi==0.111.0
+uvicorn[standard]
+sqlmodel==0.0.16      # ORM sobre SQLite
+pydantic[email]
